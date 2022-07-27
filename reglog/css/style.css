@@ -199,7 +199,7 @@ figure {
 }
 
 .form-submit {
-    display: inline-block;
+   
     background: #6dabe4;
     color: #fff;
     border-bottom: none;
@@ -212,6 +212,7 @@ figure {
     -ms-border-radius: 5px;
     margin-top: 25px;
     cursor: pointer;
+    
 }
 
 .form-submit:hover {

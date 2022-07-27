@@ -1,3 +1,4 @@
+
 <!doctype html>
 <!--[if lt IE 7]>		<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>			<html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -33,6 +34,7 @@
 	<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
 </head>
 <body class="tg-home tg-homefour">
+	
 	<!--[if lt IE 8]>
 		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
@@ -48,6 +50,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+							
 							<ul class="tg-addressinfo">
 								<li>
 									<i class="icon-map-marker"></i>
@@ -59,7 +62,10 @@
 									<i class="icon-phone-handset"></i>
 									<span>+880 1713 104 514</span>
 								</li>
-							</ul>
+								<li><a href="reglog/signin.html" class="btn btn-primary btn-lg active btn-sm" role="button" aria-pressed="true">Sign In</a>
+									<a href="reglog/signup.html" class="btn btn-primary btn-lg active btn-sm" role="button" aria-pressed="true">Sign Up</a></li>
+							
+								</ul>
 							
 						</div>
 					</div>
